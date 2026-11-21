@@ -15,7 +15,7 @@
 # 1. 克隆本分支到 ROS 2 工作空间的 src 目录
 mkdir -p ~/mid360_ws/src
 cd ~/mid360_ws/src
-git clone -b mid360 <仓库地址> mid360
+git clone -b mid360 https://github.com/WrenInk/ros2_sensor_drivers.git mid360
 
 # 2. 编译驱动
 cd ~/mid360_ws/src/mid360/livox_ros_driver2
