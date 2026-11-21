@@ -15,7 +15,7 @@
 
 ```bash
 # 1. 克隆本分支作为工作区
-git clone -b wlr716 <仓库地址> ~/wlr716
+git clone -b wlr716 https://github.com/WrenInk/ros2_sensor_drivers.git ~/wlr716
 cd ~/wlr716
 
 # 2. 编译驱动
