@@ -16,7 +16,7 @@ python3 -m pip install pyserial
 
 ```bash
 # 克隆本分支
-git clone -b stp23l <仓库地址> stp23l
+git clone -b stp23l https://github.com/WrenInk/ros2_sensor_drivers.git stp23l
 cd stp23l
 
 # 查看帮助
